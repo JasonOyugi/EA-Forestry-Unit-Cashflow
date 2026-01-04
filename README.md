@@ -1,4 +1,4 @@
-# Forestry Investment Economics
+# Forestry Asset Basic Cashflow
 
 ## Forest Production 
 
@@ -72,7 +72,7 @@ Site and scale parameters:
 - Haul distance: $D$ (km)
 - Truck payload capacity: $C$ (m³ per trip)
 - Labour (including allowance) and equipment cost
-  - For any labour category requiring $d$ man-days: $\text{Labour cost}\lceil d \rceil \cdot \text{wage} + \left\lceil 2d \right\rceil / 2 \cdot \text{allowance}$
+  - For any labour category requiring $d$ man-days: $\text{Labour cost} = \lceil d \rceil \cdot \text{wage} + \frac{\left\lceil 2d \right\rceil}{2} \cdot \text{allowance}$
 
 
 
